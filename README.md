@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdisamid
-- 👀 I’m interested in Software engineering and Cyber security
+- 👀 I’m interested in Software engineering, I have previously worked as a junior Linux SysAdmin
 - 🌱 I’m currently learning DSA in Py
 - 💞️ I’m looking to collaborate on Leetcode and Neetcode questions
 - 📫 How to reach me https://www.linkedin.com/in/abdisamid-abdullahi-53801379/
